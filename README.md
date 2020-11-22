@@ -1,2 +1,2 @@
 # Determining-the-Optimum-Portfolio-Containing-the-Big-US-Tech-Companies-and-its-Future-Return
-The project shows how Yahoos Finance API can be used to import companies’ financial data in to a Python program and then analysed. The financial data is then analysed to determine a stocks historical return and risk level before Markowitz Portfolio is used to determine the optimal portfolio contining six US Tech stocks.
+The project shows how the Yahoos Finance API can be used to import a companies financial data into a Python program. The financial data is then analysed to determine a stocks historical return and risk level before Markowitz Portfolio Theory is used to determine the optimal portfolio of six US Tech stocks.
